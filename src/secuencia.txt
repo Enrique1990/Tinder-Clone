@@ -1,0 +1,23 @@
+npm i material-ui/core/
+npm i material-ui/icons
+npm i react-tinder-card
+in backend folder :
+git init 
+npm init(entry point : server.js);
+in the package.json:
+"type": "module", in the first key;
+and "start": "node server.js" in the second key;
+back in console: npm i express mongoose
+npm i -g nodemon 
+nodemon server.js
+install cors
+in tinder-clone npm i axios 
+after heroku login a git deploy : heroku logs --tail
+copy the link in the axios file
+
+en tinder-clone : firebase login .......
+
+hosting Url: https://tinder-clone-b56fd.web.app
+
+admin
+passwords mongodb: OFpr0I8a37ra1tS5
